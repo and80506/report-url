@@ -13,5 +13,13 @@
     "external"
   ],
   "author": "and80506@163.com",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/and80506/report-url.git"
+  },
+  "bugs": {
+    "url": "https://github.com/and80506/report-url/issues"
+  },
+  "homepage": "https://github.com/and80506/report-url#readme"
 }
