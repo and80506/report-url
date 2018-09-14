@@ -1,0 +1,17 @@
+{
+  "name": "report-url",
+  "version": "1.0.0",
+  "description": "report external ip address with console log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip",
+    "address",
+    "url",
+    "external"
+  ],
+  "author": "and80506@163.com",
+  "license": "MIT"
+}
